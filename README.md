@@ -1,6 +1,6 @@
-# Telia Company - Terraform Azure Landing Zones Vending
+# Terraform Azure Landing Zones Vending
 
-This repository contains Terraform code for managing Azure Landing Zones in the Telia Company organization, following the Azure Cloud Adoption Framework (CAF) principles. The Landing Zones are created for different environments including Production, Staging, and Development.
+This repository contains Terraform code for managing Azure Landing Zones in the organization, following the Azure Cloud Adoption Framework (CAF) principles. The Landing Zones are created for different environments including Production, Staging, and Development.
 
 The deployment process is handled using GitHub Actions and the Azure Cloud Provider for Terraform.
 
